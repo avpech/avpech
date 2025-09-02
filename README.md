@@ -1,5 +1,3 @@
-### Hello! 👋 My name is Artur, I am a beginner Python  developer. 
-
 My contacts:
 - **Telegram** [@velort777](https://t.me/velort777)
 - **Email** <artur.pechenyuk@bk.ru>
